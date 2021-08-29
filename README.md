@@ -1,14 +1,14 @@
 # Challenge-One
 
-##Purpose
+## Purpose
 A Website for Horiseon
 
-##Built with
+## Built with
 *HTML
 *CSS
 
-##Website
+## Website
  https://smaheilman.github.io/Challenge-One/
  
- ##Contribution
+ ## Contribution
  Made more accessible by Samantah Heilman

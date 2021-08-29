@@ -60,6 +60,11 @@ header a {
 /*Hero section style end*/
 
 /*Content style section*/
+#main-content{
+    display: inline-block;
+    width: 75%;
+}
+
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,7 +122,7 @@ header a {
 }
 
 .benefits img {
-    display: inline-block;
+    display: block;
     margin: 10px auto;
     max-width: 150px;
 }
